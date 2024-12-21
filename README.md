@@ -16,3 +16,4 @@ JokesApp is a web database application developed using ASP.NET Core and Entity F
 - Entity Framework
 - Bootstrap
 - Razor
+- PostgreSQL
