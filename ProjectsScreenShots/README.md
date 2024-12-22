@@ -8,3 +8,6 @@ In this section, I'm sharing some screenshots taken while I was working on and b
 -Index Page
 ![IndexPage](02-IndexPage.png)
 
+-Home Page-Updated
+![03-HomePageUpdated](03-HomePageUpdated.png)
+
