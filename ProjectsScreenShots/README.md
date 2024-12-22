@@ -11,3 +11,15 @@ In this section, I'm sharing some screenshots taken while I was working on and b
 -Home Page-Updated
 ![03-HomePageUpdated](03-HomePageUpdated.png)
 
+-Search
+![04-Search](04-Search.png)
+
+-Search Results
+![05-Search-Results](05-Search-Results.png)
+
+-Jokes List
+![06-Jokes-List](06-Jokes-List.png)
+
+-Details
+![07-Details](07-Details.png)
+
