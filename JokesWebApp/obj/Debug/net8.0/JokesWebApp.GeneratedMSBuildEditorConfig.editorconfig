@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = JokesWebApp
 build_property.RootNamespace = JokesWebApp
@@ -28,6 +36,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/home/sohiab/Desktop/GitHubProjects/WebApp-using-ASP.NET-Core-and-Entity-Framework/JokesWebApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sohiab/Desktop/GitHubProjects/WebApp-using-ASP.NET-Core-and-Entity-Framework/JokesWebApp/Views/Jokes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSm9rZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sohiab/Desktop/GitHubProjects/WebApp-using-ASP.NET-Core-and-Entity-Framework/JokesWebApp/Views/Jokes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSm9rZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sohiab/Desktop/GitHubProjects/WebApp-using-ASP.NET-Core-and-Entity-Framework/JokesWebApp/Views/Jokes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSm9rZXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sohiab/Desktop/GitHubProjects/WebApp-using-ASP.NET-Core-and-Entity-Framework/JokesWebApp/Views/Jokes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSm9rZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/sohiab/Desktop/GitHubProjects/WebApp-using-ASP.NET-Core-and-Entity-Framework/JokesWebApp/Views/Jokes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSm9rZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/sohiab/Desktop/GitHubProjects/WebApp-using-ASP.NET-Core-and-Entity-Framework/JokesWebApp/Views/Shared/Error.cshtml]

@@ -5,3 +5,6 @@ In this section, I'm sharing some screenshots taken while I was working on and b
 -Home Page-First Version
 ![HomePage-First Version](01-HomePage.png)
 
+-Index Page
+![IndexPage](02-IndexPage.png)
+

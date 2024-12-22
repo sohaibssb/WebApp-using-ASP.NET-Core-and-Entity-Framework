@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using JokesWebApp.Models;
 
 namespace JokesWebApp.Data
 {
@@ -10,6 +11,7 @@ namespace JokesWebApp.Data
         {
         }
 
-        // DbSet 
+        // Non-nullable DbSet for Jokes
+        public DbSet<Joke> Jokes { get; set; } 
     }
 }
